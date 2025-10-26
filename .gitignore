@@ -14,8 +14,6 @@ pnpm-debug.log*
 Thumbs.db
 
 # Environment variables
-.env
-.env.*
 
 # Package lock files (optional for libraries/CLI tools)
 package-lock.json
@@ -27,7 +25,6 @@ coverage/
 .nyc_output/
 
 # IDEs / Editors
-.vscode/
 .idea/
 *.sublime-workspace
 *.sublime-project
@@ -40,3 +37,4 @@ build/
 *.swp
 *.bak
 *.tmp
+config.bat
